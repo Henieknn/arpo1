@@ -1,7 +1,7 @@
 # Лабораторная работа №1. Автоматическая сборка Unity-проекта через CLI
 
-**Студент:** Сергей Шнитко
-**Репозиторий:** https://github.com/temmie4real/arpolab1
+**Студент:** Гоман Г.А.
+**Репозиторий:** https://github.com/Henieknn/arpo1
 
 ## Цель работы
 
@@ -70,7 +70,7 @@
 
 Привязал удалённый репозиторий GitHub и отправил ветку:
 
-    git remote add origin https://github.com/temmie4real/arpolab1.git
+    git remote add origin https://github.com/Henieknn/arpolab1.git
     git push -u origin main
 
 Переключился на новую ветку (вернул скрипт `BuildManager.cs` в папку проекта) и добавил изменения в git:
